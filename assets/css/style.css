@@ -700,7 +700,7 @@ main .container .right{
 
 @media screen and (max-width: 1024px) {
     .container{
-        width: 96%;
+        width: 90%;
     }
 
     main .container{
